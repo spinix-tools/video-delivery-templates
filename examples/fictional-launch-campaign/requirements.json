@@ -1,0 +1,5 @@
+{"version":1,"requirements":[
+{"name":"Lantern_launch_16x9_15s_v03.mp4","width":1920,"height":1080,"duration":15,"tolerance":0.1},
+{"name":"Lantern_launch_9x16_15s_v03.mp4","width":1080,"height":1920,"duration":15,"tolerance":0.1},
+{"name":"Lantern_launch_1x1_15s_v03.mp4","width":1080,"height":1080,"duration":15,"tolerance":0.1}
+]}
