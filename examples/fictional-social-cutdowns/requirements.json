@@ -1,0 +1,6 @@
+{"version":1,"requirements":[
+{"name":"harbor_bumper_6s_16x9.mp4","width":1920,"height":1080,"duration":6,"tolerance":0.1},
+{"name":"harbor_15s_9x16.mp4","width":1080,"height":1920,"duration":15,"tolerance":0.1},
+{"name":"harbor_15s_1x1.mp4","width":1080,"height":1080,"duration":15,"tolerance":0.1},
+{"name":"harbor_30s_16x9.mp4","width":1920,"height":1080,"duration":30,"tolerance":0.1}
+]}
