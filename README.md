@@ -12,6 +12,12 @@ Each example has two files:
 - [`examples/fictional-launch-campaign`](examples/fictional-launch-campaign) — one 15-second spot delivered as 16:9, 9:16 and 1:1. Fictional client terms.
 - [`examples/fictional-social-cutdowns`](examples/fictional-social-cutdowns) — four social versions of one campaign: 6-second 16:9 bumper, 15-second 9:16 and 1:1, 30-second 16:9. Fictional client terms.
 
+## How to use
+
+1. Copy the example closest to your job and change the file names, sizes and durations in `CHECKLIST.md` to match your client's list.
+2. Before sending, tick each line against your export folder: names, width × height, duration, and no extra or old files.
+3. Keep `requirements.json` next to the checklist if you track the same terms in a script or tool.
+
 ## Client terms vs. platform recommendations
 
 The examples describe what a (fictional) client asked for. They are **not** platform specifications. Platform guidance changes; check the source each time. As of 2026-10-29:
