@@ -10,6 +10,7 @@ Each example has two files:
 ## Examples
 
 - [`examples/fictional-launch-campaign`](examples/fictional-launch-campaign) — one 15-second spot delivered as 16:9, 9:16 and 1:1. Fictional client terms.
+- [`examples/fictional-social-cutdowns`](examples/fictional-social-cutdowns) — four social versions of one campaign: 6-second 16:9 bumper, 15-second 9:16 and 1:1, 30-second 16:9. Fictional client terms.
 
 ## Client terms vs. platform recommendations
 
